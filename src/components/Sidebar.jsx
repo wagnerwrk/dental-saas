@@ -26,7 +26,7 @@ function Sidebar() {
         marginBottom: '32px',
         fontSize: '18px'
       }}>
-        🦷 Dental SaaS
+        🦷 Kuapiz Odonto
       </h2>
 
       {menu.map((item) => (

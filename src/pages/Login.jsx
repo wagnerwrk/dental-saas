@@ -25,7 +25,7 @@ function Login() {
         flexDirection: 'column',
         alignItems: 'center'
       }}>
-        <h2 style={{ marginBottom: '4px', color: '#1a202c' }}>🦷 Dental SaaS</h2>
+        <h2 style={{ marginBottom: '4px', color: '#1a202c' }}>🦷 Kuapiz Odonto</h2>
         <p style={{ marginBottom: '24px', color: '#718096', fontSize: '14px' }}>
           Faça login para continuar
         </p>
